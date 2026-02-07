@@ -1,4 +1,11 @@
-<h1 align="center">
+# vscode-firefox-debug
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/vscode-firefox-debug)](https://github.com/Panda1847/vscode-firefox-debug/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/vscode-firefox-debug)](https://github.com/Panda1847/vscode-firefox-debug/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/vscode-firefox-debug)](https://github.com/Panda1847/vscode-firefox-debug/issues)
+[![Language](https://img.shields.io/badge/language-TypeScript-blue.svg)](https://github.com/Panda1847/vscode-firefox-debug)
+
   <br>
     <img src="https://github.com/firefox-devtools/vscode-firefox-debug/blob/master/icon.png?raw=true" alt="logo" width="200">
   <br>
